@@ -25,7 +25,7 @@ SECRET_KEY = '04l6i-3_j7x8tgsh-%ubms0#9wwo^k#dzm1^naw8dz+$k4@(k-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vermpy.pythonanywhere.com']
 
 
 # Application definition
